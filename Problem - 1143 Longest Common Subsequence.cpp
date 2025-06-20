@@ -1,8 +1,9 @@
-/*The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
+/*Given two strings text1 and text2, return the length of their longest common subsequence. If there is no common subsequence, return 0.
 
-Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.
+A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
 
-Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.*/
+For example, "ace" is a subsequence of "abcde".
+A common subsequence of two strings is a subsequence that is common to both strings.*/
 
 #include <iostream>
 #include <vector>
