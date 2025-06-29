@@ -26,4 +26,4 @@ HARD PROBLEMS
 	1) Problem-4 		Median of Two Sorted Arrays
  	2) Problem-23		Merge K Sorted Lists
   	3) Problem-51 		N-Queens - I
-   	4) Problem-123		Buy & Sell Stcks - III
+   	4) Problem-123		Buy & Sell Stocks - III
