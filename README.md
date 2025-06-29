@@ -20,6 +20,7 @@ MEDIUM PROBLEMS
   	3) Problem-122 		Buy & Sell Stocks - II
    	4) Problem-1143		Longest Common Subsequences
 	5) Problem-2966		Divide array into arrays with max diff
+ 	6) Problem - 198	House Robbers - I
 
 HARD PROBLEMS
 
