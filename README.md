@@ -19,7 +19,7 @@ MEDIUM PROBLEMS
  	2) Problem-81		Search in Rotated Sorted Array - II
   	3) Problem-122 		Buy & Sell Stocks - II
    	4) Problem-1143		Longest Common Subsequences
-    	5) Problem-2966		Divide Array into arrays with Maximum Difference
+    	5) Problem-2966		Divide Array into arrays with Max Diff
 
 HARD PROBLEMS
 
