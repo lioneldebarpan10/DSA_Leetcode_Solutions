@@ -21,6 +21,7 @@ MEDIUM PROBLEMS
    	4) Problem-1143		Longest Common Subsequences
 	5) Problem-2966		Divide array into arrays with max diff
  	6) Problem - 198	House Robbers - I
+  	7) Problem - 213	House Robbers - II
 
 HARD PROBLEMS
 
