@@ -22,6 +22,7 @@ MEDIUM PROBLEMS
 	5) Problem-2966		Divide array into arrays with max diff
  	6) Problem - 198	House Robbers - I
   	7) Problem - 213	House Robbers - II
+   	8) Problem - 3		Longest Substring without repeating character
 
 HARD PROBLEMS
 
