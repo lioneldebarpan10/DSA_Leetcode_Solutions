@@ -12,6 +12,7 @@ EASY PROBLEMS
 	2) Problem-70  		Climbing Stairs
  	3) Problem-121  	Buy & Sell Stocks - I
   	4) Problem-2206 	Divide Array into Equal Pairs
+   	5) Problem-496		Next Greater Element - I
    
 MEDIUM PROBLEMS
 
@@ -20,9 +21,10 @@ MEDIUM PROBLEMS
   	3) Problem-122 		Buy & Sell Stocks - II
    	4) Problem-1143		Longest Common Subsequences
 	5) Problem-2966		Divide array into arrays with max diff
- 	6) Problem - 198	House Robbers - I
-  	7) Problem - 213	House Robbers - II
-   	8) Problem - 3		Longest Substring without repeating character
+ 	6) Problem-198		House Robbers - I
+  	7) Problem-213		House Robbers - II
+   	8) Problem-3		Longest Substring without repeating character
+	9) Problem-503		Next Greater Element - II
 
 HARD PROBLEMS
 
