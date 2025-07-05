@@ -32,3 +32,4 @@ HARD PROBLEMS
  	2) Problem-23		Merge K Sorted Lists
   	3) Problem-51 		N-Queens - I
    	4) Problem-123		Buy & Sell Stocks - III
+	5) Problem-83		Largest Rectangle in Histogram
