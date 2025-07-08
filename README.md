@@ -13,6 +13,8 @@ EASY PROBLEMS
  	3) Problem-121  	Buy & Sell Stocks - I
   	4) Problem-2206 	Divide Array into Equal Pairs
    	5) Problem-496		Next Greater Element - I
+    	6) Problem-141		LinkedList Cycle - I
+	7) Problem-21		Merge Two Sorted Lists
    
 MEDIUM PROBLEMS
 
@@ -26,6 +28,7 @@ MEDIUM PROBLEMS
    	8) Problem-3		Longest Substring without repeating character
 	9) Problem-503		Next Greater Element - II
 	10) Problem-2095	Delete the Middle Node of a Linked List
+ 	11) Problem-142		LinkedList Cycle - II
 
 HARD PROBLEMS
 
