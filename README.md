@@ -25,6 +25,7 @@ MEDIUM PROBLEMS
   	7) Problem-213		House Robbers - II
    	8) Problem-3		Longest Substring without repeating character
 	9) Problem-503		Next Greater Element - II
+	10) Problem-2095	Delete the Middle Node of a Linked List
 
 HARD PROBLEMS
 
