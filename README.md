@@ -13,7 +13,7 @@ EASY PROBLEMS
  	3) Problem-121  	Buy & Sell Stocks - I
   	4) Problem-2206 	Divide Array into Equal Pairs
    	5) Problem-496		Next Greater Element - I
-    	6) Problem-141		LinkedList Cycle - I
+	6) Problem-141		LinkedList Cycle - I
 	7) Problem-21		Merge Two Sorted Lists
    
 MEDIUM PROBLEMS
