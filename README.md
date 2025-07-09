@@ -15,6 +15,7 @@ EASY PROBLEMS
    	5) Problem-496		Next Greater Element - I
 	6) Problem-141		LinkedList Cycle - I
 	7) Problem-21		Merge Two Sorted Lists
+	8) Problem-83		Search in Rotated Sorted List - I
    
 MEDIUM PROBLEMS
 
@@ -29,6 +30,7 @@ MEDIUM PROBLEMS
 	9) Problem-503		Next Greater Element - II
 	10) Problem-2095	Delete the Middle Node of a Linked List
  	11) Problem-142		LinkedList Cycle - II
+	12) Problem-82		Search in Rotated Sorted List -II
 
 HARD PROBLEMS
 
@@ -38,3 +40,4 @@ HARD PROBLEMS
    	4) Problem-123		Buy & Sell Stocks - III
 	5) Problem-84		Largest Rectangle in Histogram
 	6) Problem-85		Maximal Rectangle
+	7) Problem-25		Reverse Nodes in K Group
