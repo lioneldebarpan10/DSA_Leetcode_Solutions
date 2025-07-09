@@ -1,7 +1,8 @@
+/*Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.*/
+
 #include <iostream>
 using namespace std;
 
-// Definition of singly-linked list node
 struct ListNode {
     int val;
     ListNode* next;
@@ -11,10 +12,10 @@ struct ListNode {
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        ListNode* dummy = new ListNode(0); // create dummy node before head
+        ListNode* dummy = new ListNode(0); // create dummy node before head to handle edge Cases
         dummy->next = head;
-        ListNode* prev = dummy; // prev points to last node before the duplicate group
-        ListNode* curr = head;  // curr is the moving pointer
+        ListNode* prev = dummy; // tracks the last confirmed non-duplicate Node
+        ListNode* curr = head;  // moves through the list to find duplicates
 
         while(curr != NULL){
             // if current node and next node have same value, skip all nodes with that value
@@ -29,11 +30,10 @@ public:
             }
             curr = curr->next; // always move curr
         }
-        return dummy->next; // return head of cleaned list
+        return dummy->next; 
     }
 };
 
-// Function to create a linked list from an array
 ListNode* createList(int arr[], int n) {
     if(n == 0) return NULL;
     ListNode* head = new ListNode(arr[0]);
@@ -45,7 +45,6 @@ ListNode* createList(int arr[], int n) {
     return head;
 }
 
-// Function to print the list
 void printList(ListNode* head) {
     while(head != NULL) {
         cout << head->val;
@@ -66,11 +65,10 @@ int main() {
     printList(head);
 
     Solution sol;
-    head = sol.deleteDuplicates(head); // remove all duplicate nodes entirely
+    head = sol.deleteDuplicates(head); 
 
     cout << "After Removing All Duplicates: ";
     printList(head);
 
     return 0;
 }
-
