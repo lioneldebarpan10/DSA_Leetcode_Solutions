@@ -16,6 +16,9 @@ EASY PROBLEMS
 	6) Problem-141		LinkedList Cycle - I
 	7) Problem-21		Merge Two Sorted Lists
 	8) Problem-83		Search in Rotated Sorted List - I
+	9) Problem-92		Inorder Traversal of Binary Tree
+	10) Problem-144		Preorder Traversal of Binary Tree
+	11) Problem-145		Postorder Traversal of Binary Tree
    
 MEDIUM PROBLEMS
 
@@ -31,6 +34,7 @@ MEDIUM PROBLEMS
 	10) Problem-2095	Delete the Middle Node of a Linked List
  	11) Problem-142		LinkedList Cycle - II
 	12) Problem-82		Search in Rotated Sorted List -II
+	13) Problem-102		Level Order Traversal of Binary Tree
 
 HARD PROBLEMS
 
